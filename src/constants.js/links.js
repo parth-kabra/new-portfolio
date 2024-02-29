@@ -1,5 +1,5 @@
 // social accounts
-export const gmailLink = "mailto:kabraji001@gmail.com"
+export const gmailLink = "mailto:parthskabra@gmail.com"
 export const linkedinLink = "https://www.linkedin.com/in/parth-kabra-3164a5205"
 export const instagramLink = "#"
 export const githubLink = "https://github.com/parth-kabra"
