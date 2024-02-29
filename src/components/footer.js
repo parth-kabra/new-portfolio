@@ -18,7 +18,7 @@ export default function Footer() {
                 </div>
 
                 <div className="mx-auto w-full max-w-sm space-y-2">
-                    <Link href={"mailto:kabraji001@gmail.com"} className={`underline text-xl ${marhey.className}`}>kabraji001@gmail.com</Link>
+                    <Link href={"mailto:kabraji001@gmail.com"} className={`underline text-xl ${marhey.className}`}>parthskabra@gmail.com</Link>
 
                 </div>
 
