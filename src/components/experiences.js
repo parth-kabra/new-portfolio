@@ -1,9 +1,9 @@
-import { logo, senior } from "@/constants.js/assets"
+import { logo, senior, craftivert } from "@/constants.js/assets"
 import styles from "@/constants.js/styles"
 import Image from "next/image"
 import Link from "next/link"
 import Contact from "./contact"
-import { seniorLink } from "@/constants.js/links"
+import { seniorLink, craftivertLink } from "@/constants.js/links"
 
 function Experience({experience, id}){
     return (
@@ -47,7 +47,13 @@ function Experiences(){
             info: "As a freelance web developer, I've crafted impressive projects for clients, enabling them to establish a strong online presence with custom-designed websites tailored to their needs.",
             logo: logo,
             time: "March 2023 - Present"
-        }
+        },
+        {
+            title: "Craftivert",
+            info: "(FREELANCED) I designed and developed Craftivert's website from scratch, handling both the visuals and functionality. I also built a custom authentication portal using Clerk.",
+            logo: craftivert,
+            time: "Jan 2025 - Jan 2025"
+        },
     ];
 
     return (
