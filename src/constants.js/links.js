@@ -7,6 +7,7 @@ export const discordLink = "https://discordapp.com/users/4130"
 
 // hirer website links
 export const seniorLink = "https://asksenior.in/"
+export const craftivertLink = "https://www.craftivert.com/"
 
 // projects links
 export const projectsInfo = {
